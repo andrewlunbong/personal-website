@@ -12,25 +12,14 @@ const About = () => {
             About
           </p>
         </div>
-
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        As a recent graduate Software Developer from CodeClan, I am eager to embark on a promising career in the field. With comprehensive training in Python/Flask, SQL, JavaScript/React, Java and Spring. I have honed my skills in creating reliable code through unit testing and pair programming. Alongside my studies, my experience as a Salesperson at World Duty Free and Coffee Specialist Nestlé Nespresso SA has enhanced my customer service, teamwork, problem-solving, sales, product knowledge, and communication abilities in a fast-paced environment. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        With a strong foundation in software development and a passion for continuous learning, I am well-prepared to contribute to innovative software projects. I bring a unique blend of technical proficiency, customer service excellence, and effective communication skills to my future endeavors. Let's connect on LinkedIn to explore potential collaborations and opportunities in the software development industry.
         </p>
       </div>
     </div>

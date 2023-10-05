@@ -8,6 +8,8 @@ import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import java from "../assets/java.png";
+import python from "../assets/python.png";
 
 const Experience = () => {
   const techs = [
@@ -59,12 +61,24 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
+    {
+      id: 8,
+      src: java,
+      title: "Java",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: python,
+      title: "Python",
+      style: "shadow-gray-400",
+    },
   ];
 
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
+      className="bg-gradient-to-b from-gray-800 to-black w-full md:h-screen"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
