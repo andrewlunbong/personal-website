@@ -1,8 +1,8 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+import socialMediaPodcast from "../assets/portfolio/socialMediaPodcast.jpg";
 import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import proPlayer from "../assets/portfolio/proPlayer.jpg";
+import footballApps from "../assets/portfolio/footballApps.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
@@ -10,33 +10,33 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: socialMediaPodcast,
       demoLink: "https://www.youtube.com/watch?v=nmWBKBKWIGA&t=1s",
       codeLink: "https://github.com/andrewlunbong/Podcast-JS-Project",
     },
     {
       id: 2,
-      src: reactParallax,
-      codeLink: "https://https://github.com/andrewlunbong/Football-apps-Project.com/andrewlunbog",
+      src: footballApps,
+      codeLink: "https://github.com/andrewlunbong/Football-apps-Project",
 
     },
     {
       id: 3,
-      src: navbar,
-      codeLink: "https://github.com/andrewlunbong",
+      src: proPlayer,
+      codeLink: "https://github.com/andrewlunbong/Pro_Player_Project",
     },
-    {
-      id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
+    // {
+    //   id: 4,
+    //   src: reactSmooth,
+    // },
+    // {
+    //   id: 5,
+    //   src: installNode,
+    // },
+    // {
+    //   id: 6,
+    //   src: reactWeather,
+    // },
   ];
 
   return (

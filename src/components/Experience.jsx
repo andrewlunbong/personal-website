@@ -62,13 +62,13 @@ const Experience = () => {
       style: "shadow-gray-400",
     },
     {
-      id: 8,
+      id: 9,
       src: java,
       title: "Java",
       style: "shadow-gray-400",
     },
     {
-      id: 9,
+      id: 10,
       src: python,
       title: "Python",
       style: "shadow-gray-400",
