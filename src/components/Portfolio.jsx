@@ -1,10 +1,10 @@
 import React from "react";
 import socialMediaPodcast from "../assets/portfolio/socialMediaPodcast.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
+// import installNode from "../assets/portfolio/installNode.jpg";
 import proPlayer from "../assets/portfolio/proPlayer.jpg";
 import footballApps from "../assets/portfolio/footballApps.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+// import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+// import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
   const portfolios = [
