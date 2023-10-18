@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/ittiphon-lunbong/",
+      href: "https://linkedin.com",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/andrewlunbong",
+      href: "https://github.com/theyashpatel",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:ittiphonlunbong97@gmail.com",
+      href: "mailto:foo@gmail.com",
     },
     {
       id: 4,

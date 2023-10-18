@@ -3,6 +3,7 @@ import HeroImage from "../assets/heroImage.png";
 import {SlArrowRight} from 'react-icons/sl';
 import { Link } from 'react-scroll';
 
+
 const Home = () => {
   return (
     <div 
@@ -16,7 +17,7 @@ const Home = () => {
             <h2 className="text-4xl sm:text-7xl font-bold
             text-white">
             I'm a Full Stack Developer</h2>
-            <p className="text-gray-500 py-4 max-w-md">
+            <p className="text-white py-4 max-w-md">
                 I have accumulated one year of practical experience in software development and design.
                 Currently, I love to work on web application using technologies like
                 React, Tailwind, Next JS and GraphQL.
